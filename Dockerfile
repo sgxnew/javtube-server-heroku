@@ -1,1 +1,1 @@
-FROM javtube/javtube-server:v1.0.16
+FROM javtube/javtube-server:1.0.16
