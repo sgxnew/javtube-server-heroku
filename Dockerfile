@@ -1,1 +1,1 @@
-FROM javtube/javtube-server:last
+FROM javtube/javtube-server:latest
