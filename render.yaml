@@ -1,2 +1,5 @@
-web:
-Dockerfile:Dockerfile
+services:
+  # A Docker web service
+  - type: web
+  name: javtube2022
+  env: docker
