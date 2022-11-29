@@ -2,3 +2,4 @@ services:
 - type: web
   name: javtube2022
   env: docker
+  plan: free
