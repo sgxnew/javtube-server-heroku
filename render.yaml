@@ -1,4 +1,4 @@
 services:
-  type: web
+  - type: web
   name: javtube2022
   env: docker
