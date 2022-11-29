@@ -21,7 +21,7 @@ Heroku不再免费，请使用Docker部署后端，或使用[Koyeb快速部署](
 ## 一键部署
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Deploy]((https://www.herokucdn.com/deploy/button.svg)](https://render.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://render.com/deploy)
 
 ## 具体说明
 
